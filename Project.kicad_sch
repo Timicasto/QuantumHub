@@ -3169,7 +3169,7 @@
     (property "Reference" "R10" (id 0) (at 188.087 97.2984 90)
       (effects (font (size 0.9906 0.9906)) (justify right))
     )
-    (property "Value" "RES(M)-LibCool" (id 1) (at 188.087 98.7288 90)
+    (property "Value" "4.7K/5%" (id 1) (at 188.087 98.7288 90)
       (effects (font (size 0.9906 0.9906)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 186.69 97.79 0)
@@ -3530,7 +3530,7 @@
     (property "Reference" "R11" (id 0) (at 188.087 120.1584 90)
       (effects (font (size 0.9906 0.9906)) (justify right))
     )
-    (property "Value" "RES(M)-LibCool" (id 1) (at 188.087 121.5888 90)
+    (property "Value" "4.7K/5%" (id 1) (at 188.087 121.5888 90)
       (effects (font (size 0.9906 0.9906)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 186.69 120.65 0)
@@ -3881,10 +3881,10 @@
       (reference "R9") (unit 1) (value "4.7K/5%") (footprint "")
     )
     (path "/89fb6906-a42e-497c-a7b2-25a3431a4030"
-      (reference "R10") (unit 1) (value "RES(M)-LibCool") (footprint "")
+      (reference "R10") (unit 1) (value "4.7K/5%") (footprint "")
     )
     (path "/df5779d8-f968-49f0-8166-ee0ca7a408f9"
-      (reference "R11") (unit 1) (value "RES(M)-LibCool") (footprint "")
+      (reference "R11") (unit 1) (value "4.7K/5%") (footprint "")
     )
     (path "/cb8a80c4-ebc1-408e-9240-fd24926bdfee"
       (reference "R?") (unit 1) (value "226R/1%") (footprint "")
