@@ -1,4 +1,4 @@
-20080152697268364
+20094955189869765
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57560,6 +57560,69 @@ Yellow 5381 Series LED
 0
 2
 2
+Lib
+BGA-9_3x3_2.9x2.35mm
+
+
+0
+8
+8
+Lib
+BT1220
+
+
+0
+4
+3
+Lib
+GlowTube
+
+
+0
+12
+12
+Lib
+LQFP-144_20x20mm_P0.5mm
+LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+144
+144
+Lib
+OSC_5032
+
+
+0
+2
+2
+Lib
+SIP-4
+
+
+0
+4
+4
+Lib
+SOP-14
+
+
+0
+14
+14
+Lib
+SSOP-20_5.3x7.2mm_P0.65mm
+SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+20
+20
+Lib
+SY98081
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
